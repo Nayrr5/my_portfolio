@@ -1,0 +1,16 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "Explore projects that demonstrate my ability to build, deploy, and maintain complete web applications. Focused on clean code, practical functionality, and solutions across various domains using C#, HTML, CSS, JS, and SQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
